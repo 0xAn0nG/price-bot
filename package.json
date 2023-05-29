@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "repository": "git@github.com:0xAn0nG/price-bot.git",
-  "author": "0xAn0nG",
+  "author": "0xAn0nG <onecryptoboy@gmail.com>",
   "license": "MIT"
 }
